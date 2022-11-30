@@ -1,8 +1,7 @@
 Markup : <details>
            <summary>Title 1</summary>
-           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+           <p>Cryptography using Python</p>
          </details>
-**Cryptography using Python**
 -----------------------------------------------------------------------
 There is  video regarding to understand Morse Code and how actual it works it is quit interesting the old technology how it was working to keep the secrets stay secret. I am providing links below to make understandable easily also providing the link of virtual cipher wheel online.
 --------------------------------------------------------------------------
