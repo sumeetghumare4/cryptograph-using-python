@@ -1,5 +1,4 @@
 Markup : <details>
-           <summary>Title 1</summary>
            <p>Cryptography using Python</p>
          </details>
 -----------------------------------------------------------------------
